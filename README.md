@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IshikaOjha10
-- 👀 I’m interested in Python,Java FrontEnd and DBMS
-- 🌱 I’m currently pursuing Msc in Comp.Science
+- 👀 I’m interested in Python,Java FrontEnd and DBMS.
+- 🌱 I’m currently pursuing Masters in Comp.Science.
+  
 
 
 <!---
