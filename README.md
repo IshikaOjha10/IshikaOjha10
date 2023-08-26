@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @IshikaOjha10
 - 👀 I’m interested in Python,Java FrontEnd and DBMS.
 - 🌱 I’m currently pursuing Masters in Comp.Science.
+- 💞️ I’m looking to collaborate on Python Projects.
+- mail:ishika102002@gmail.com
   
 
 
